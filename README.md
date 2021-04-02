@@ -30,6 +30,13 @@ For our initial model, we chose four distinct general genres (Rap, Jazz, Classic
 
 * All four genres had similar levels of artist counts so class imbalance was not a big concern. The four genres all had a little over 1,000 artists. 
 
+![image](https://user-images.githubusercontent.com/76017120/113427946-eec87900-93a3-11eb-8034-b159700d56aa.png)
+
+Some important features in predicting genres: 
+* Acousticness
+* Instrumentalness
+* Duration (Seconds)
+* Key of 7
 
 
 
@@ -44,6 +51,7 @@ We ran three models - KNN, Random Forest and XGBoost and optimized towards a F1 
 |  KNN          |   0.6548    |
 |  XGBoost      |   0.8182    |
 
+Our **Random Forest** model had the highest F1 score so we decided to use that to predict the missing genres of our artists.
 
 ## Predictions 
 
