@@ -36,7 +36,7 @@ We ran three models - KNN, Random Forest and XGBoost and optimized towards a F1 
 | -----------   | ----------- |
 | Random Forest |   0.8226    |
 |  KNN          |   0.6548    |
-|   XGBoost     |   0.8182    |
+|  XGBoost      |   0.8182    |
 
 
 ## Predictions 
