@@ -32,7 +32,6 @@ Attributes
 We ran three models - KNN, Random Forest and XGBoost and optimized towards a F1 Score. Precision and recall were equally important to us. 
 
     Model     | F1 Score
-------------- | -------------
 Random Forest |   0.8226
      KNN      |   0.6548
    XGBoost    |   0.8182
