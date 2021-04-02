@@ -59,6 +59,14 @@ Based on the confusion matrix, our random forest model had limited number of wro
 
 ## Predictions 
 
+<img width="352" alt="Screen Shot 2021-04-02 at 11 48 32 AM" src="https://user-images.githubusercontent.com/76017120/113431328-94321b80-93a9-11eb-8e68-2d8d1dd8ee2a.png">
+
+Here are some examples of our predictions. Tell us what you think!
+
+## Future steps
+
+In order to expand on this we want to include more general genres to have a more comprehensive list. The mapping of the genres was a manual process so for the next phase of this project, we want to automate the clustering to avoid the manual labeling. 
+
 
 
 
