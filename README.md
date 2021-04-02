@@ -26,6 +26,12 @@ Attributes
 
 For our initial model, we chose four distinct general genres (Rap, Jazz, Classical, and Country) to map the genres to. 
 
+![image](https://user-images.githubusercontent.com/76017120/113424460-32b87f80-939e-11eb-9127-c2601a1441ed.png)
+
+* All four genres had similar levels of artist counts so class imbalance was not a big concern. The four genres all had a little over 1,000 artists. 
+
+
+
 
 ## Model Selection and Tuning
 
@@ -40,6 +46,8 @@ We ran three models - KNN, Random Forest and XGBoost and optimized towards a F1 
 
 
 ## Predictions 
+
+
 
 ## Conclusions
 
