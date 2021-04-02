@@ -39,7 +39,6 @@ Some important features in predicting genres:
 * Key of 7
 
 
-
 ## Model Selection and Tuning
 
 We ran three models - KNN, Random Forest and XGBoost and optimized towards a F1 Score. Precision and recall were equally important to us. 
