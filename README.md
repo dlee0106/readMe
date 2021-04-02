@@ -52,6 +52,11 @@ We ran three models - KNN, Random Forest and XGBoost and optimized towards a F1 
 
 Our **Random Forest** model had the highest F1 score so we decided to use that to predict the missing genres of our artists.
 
+![image (2)](https://user-images.githubusercontent.com/76017120/113428234-6eeede80-93a4-11eb-8ba5-844b29d0e14e.png)
+
+Based on the confusion matrix, our random forest model had limited number of wrong predictions. This model was especially good at predicting classical music.
+
+
 ## Predictions 
 
 
