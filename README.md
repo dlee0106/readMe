@@ -24,16 +24,19 @@ Attributes
 
 ## EDA
 
-
+For our initial model, we chose four distinct general genres (Rap, Jazz, Classical, and Country) to map the genres to. 
 
 
 ## Model Selection and Tuning
 
 We ran three models - KNN, Random Forest and XGBoost and optimized towards a F1 Score. Precision and recall were equally important to us. 
 
-    Model     | F1 Score
-Random Forest |   0.8226
-     KNN      |   0.6548
-   XGBoost    |   0.8182
+
+| Model         | F1 Score    |
+| -----------   | ----------- |
+| Random Forest |   0.8226    |
+|  KNN          |   0.6548    |
+|   XGBoost     |   0.8182    |
+
 
 ## Predictions 
