@@ -41,7 +41,7 @@ Some important features in predicting genres:
 
 ## Model Selection and Tuning
 
-We ran three models - KNN, Random Forest and XGBoost and optimized towards a F1 Score. Precision and recall were equally important to us. 
+We ran three models - _KNN_, _Random Forest_ and _XGBoost_ and optimized towards a F1 Score. Precision and recall were equally important to us. 
 
 
 | Model         | F1 Score    |
